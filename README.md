@@ -1,7 +1,7 @@
-*Tudor Andrei Orban*
+# Tudor Andrei Orban
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorOrban&layout=compact)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TudorOrban&layout=compact)
 
-![TudorOrban GitHub stats](https://github-readme-stats.vercel.app/api?username=TudorOrban&show_icons=true)
+![TudorOrban GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=TudorOrban&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TudorOrban)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TudorOrban)
